@@ -1,0 +1,9 @@
+[submodule "app/src/main/cpp/crow"]
+	path = app/src/main/cpp/crow
+	url = https://github.com/mirmik/crow
+[submodule "app/src/main/cpp/igris"]
+	path = app/src/main/cpp/igris
+	url = https://github.com/mirmik/igris
+[submodule "app/src/main/cpp/nos"]
+	path = app/src/main/cpp/nos
+	url = https://github.com/mirmik/nos
